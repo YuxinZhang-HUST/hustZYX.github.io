@@ -19,7 +19,7 @@ redirect_from:
 
 
 
-🌐欢迎来到我的主页！我是程育奇，在华中科技大学取得了学士学位（2020）和硕士学位（2023，导师：[李文龙教授](http://mse.hust.edu.cn/info/1142/1340.htm)）.目前我在华中科技大学攻读博士学位，导师为[沈卫明院士](http://mse.hust.edu.cn/info/1143/1385.htm)。
+🌐欢迎来到我的主页！我是张雨昕，在华中科技大学取得了学士学位（2020）和硕士学位（2023，导师：[李文龙教授](http://mse.hust.edu.cn/info/1142/1340.htm)）.目前我在华中科技大学攻读博士学位，导师为[沈卫明院士](http://mse.hust.edu.cn/info/1143/1385.htm)。
 
 🌐Welcome to my homepage! I am Cheng Yuqi (程育奇). I got my bachelor's degree (2020) and Master's degree (2023) from Huazhong University of Science and Technology. Now I am a Ph.D student in Huazhong University of Science and Technology under the supervision of Prof. [Shen Weiming](https://scholar.google.com/citations?hl=zh-CN&user=FuSHsx4AAAAJ&view_op=list_works&sortby=pubdate).
 
