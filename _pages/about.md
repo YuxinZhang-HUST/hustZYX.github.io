@@ -83,17 +83,16 @@ My research focuses on **industrial visual inspection**, involving **unsupervise
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MST 2021</div><img src='images/blade0.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Work</div><img src='images/ArmChair-v1.bip.6.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-
-Inspection of turbine blade cooling holes
+Work
+Multi-illumination and Multi-view Anomaly Detection Platform
 
 [**Introduction**] <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- An industrial robot is equipped with binocular camera to collect images of the blade, and then the number and aperture of cooling holes are calculated by the distribution property and binocular reconstruction principle.
-
+- An anomaly detection device equipped with multiple light sources (4 bar lights and 1 ring light), a motorized turntable, and a high-resolution industrial camera. It enables the acquisition of multi-illumination and multi-view images as well as real-time anomaly detection.
 
 [**Challenge**] <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Complex blade shape; holes distributed on the curved surface; weak feature.
+- Complex shape; online inspection.
 
 </div>
 </div>
