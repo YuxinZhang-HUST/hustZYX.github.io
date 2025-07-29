@@ -34,34 +34,9 @@ If you are interested in my academic researches or projects, please feel free to
 
 
 # 🔥 News
-- *2025.07*: &nbsp;🎉🎉 We released  [A Comprehensive Survey for Real-World Industrial Defect Detection: Challenges, Approaches, and Prospects](https://arxiv.org/abs/2507.13378).
-- *2025.07*: &nbsp;🎉🎉 We released  [Towards High-Resolution 3D Anomaly Detection: A Scalable Dataset and Real-Time Framework for Subtle Industrial Defects](https://arxiv.org/abs/2507.07435) for High-resolution 3D Anomaly Detection.
 - *2025.07*: &nbsp;🎉🎉 Our paper addressed [3D Anomaly Detection]() and [Anomaly Detection with Noise]() has been accepted by IEEE SMC 2025.
-- *2025.05*: &nbsp;🎉🎉 We won the **third prize** in [CVPR RoboTwin Dual-Arm Collaboration Challenge](https://developer.d-robotics.cc/en/cvpr-2025-challenge).
 - *2025.05*: &nbsp;🎉🎉 We released  [Visual Anomaly Detection under Complex View-Illumination Interplay: A Large-Scale Benchmark](https://arxiv.org/abs/2505.10996) for Multi-view and Multi-illumination Anomaly Detection.
-- *2025.02*: &nbsp;🎉🎉 Our paper addressed [Unified Anomaly Detection]() has been accepted by CVPR.
-- *2025.02*: &nbsp;🎉🎉 Our paper addressed [Point Cloud Anomaly Detection](https://ieeexplore.ieee.org/document/10898004) has been accepted by IEEE Transactions on Automation Science and Engineering.
-- *2025.01*: &nbsp;🎉🎉 I won the **2024 Outstanding Reviewers** of the IEEE Instrumentation and Measurement Society (IEEE TIM).
-- *2025.01*: &nbsp;🎉🎉 Our paper addressed [Zero-shot Image Anomaly Detection](https://arxiv.org/abs/2305.10724) has been accepted by IEEE Transactions on Cybernetics.
-- *2024.10*: &nbsp;🎉🎉 Our paper addressed [Path Error Compensation for Robotic Milling](https://ieeexplore.ieee.org/abstract/document/10737000) is accepted by IEEE/ASME Transactions on Mechatronics.
-- *2024.09*: &nbsp;🎉🎉 We released [Towards Zero-shot Point Cloud Anomaly Detection: A Multi-View Projection Framework](https://export.arxiv.org/abs/2409.13162) for Zero-shot Point Cloud Anomaly Detection.
-- *2024.09*: &nbsp;🎉🎉 We released [A Robust Probability-based Joint Registration Method of Multiple Point Clouds Considering Local Consistency](https://arxiv.org/abs/2409.09682) for Multi-view Point Cloud Registration.
-- *2024.08*: &nbsp;🎉🎉 We get the **Provincial Second Prize**, China International College Students’ Innovation Competition.
-- *2024.07*: &nbsp;🎉🎉 Our paper addressed [Zero-shot Image Anomaly Detection](https://arxiv.org/abs/2407.15795) is accepted by ECCV.
-- *2024.06*: &nbsp;🎉🎉 We release [A Survey on Visual Anomaly Detection: Challenge, Approach, and Prospect](https://arxiv.org/abs/2401.16402)
-- *2024.05*: &nbsp;🎉🎉 Our paper addressed [Robust Image Anomaly Detection](https://arxiv.org/abs/2406.07176) is accepted by 2024 IEEE 20th International Conference on Automation Science and Engineering(IEEE CASE2024).
-- *2024.03*: &nbsp;🎉🎉 Our paper addressed [Multi-view Point Cloud Registration](https://ieeexplore.ieee.org/abstract/document/10565771) is accepted by IEEE Transactions on Instrumentation and Measurement.
-- *2024.03*: &nbsp;🎉🎉 Our paper addressed [Mesh Data Filtering](https://iopscience.iop.org/article/10.1088/1361-6501/ad317e) is accepted by Measurement Science and Technology.
-- *2023.12*: &nbsp;🎉🎉 Our paper addressed [Illumination-Robust Edge Detection](https://iopscience.iop.org/article/10.1088/1742-6596/2761/1/012001) is published by 2023 3rd International Conference on Mechanical Automation and Electronic Information Engineering(MAEIE-2023).
-- *2023.10*: &nbsp;🎉🎉 Our paper addressed [Panoramic Image Stitching](https://iopscience.iop.org/article/10.1088/1361-6501/acfd4d)  is accepted by Measurement Science and Technology.
-- *2023.06*: &nbsp;🎉🎉 Our paper addressed [point cloud semantic segmentation](http://www.jamstjournal.com/cn/article/doi/10.51393/j.jamst.2023010) is accepted by Journal of Advanced Manufacturing Science and Technology.
-- *2023.06*: &nbsp;🎉🎉 We won the 2nd place in [CVPR VAND Zero-shot Anomaly Detection Challenge](https://sites.google.com/view/vand-cvpr23/challenge). Press Coverage: [华中科技大学](https://mp.weixin.qq.com/s/HJRslaPxo1RipTwom2mngQ), [我爱计算机视觉](https://mp.weixin.qq.com/s/_mJKn4o_U_VjEqlz7DXUFQ).
-- *2023.05*: &nbsp;🎉🎉 We released [Segment Any Anomaly without Training via Hybrid Prompt Regularization](https://arxiv.org/abs/2305.10724) for zero-shot anomaly segmentation.
-- *2023.03*: &nbsp;🎉🎉 We get the **National First Price**, "Challenge Cup" National College Student Business Plan Competition.
-- *2022.08*: &nbsp;🎉🎉 Our paper addressed [Point Cloud Simplification](https://iopscience.iop.org/article/10.1088/1361-6501/ac8ac1) is accepted by Measurement Science and Technology.
-- *2022.06*: &nbsp;🎉🎉 We get the **Provincial First Price**, "Challenge Cup" National College Student Business Plan Competition.
-- *2021.11*: &nbsp;🎉🎉 Our paper addressed [Aperture Measurement](https://iopscience.iop.org/article/10.1088/1361-6501/ac39d0) is accepted by Measurement Science and Technology.
-- *2021.09*: &nbsp;🎉🎉 We get the **National Third Prize**, China Postgraduate Robot Innovation and Design Competition.
+
 # 📝 Publications 
 
 
@@ -334,16 +309,7 @@ Mobile E-Ink Screen Surface Defect Detection
 
 
 # 🥇 Honors and Awards
-- **Outstanding Reviewers** of the IEEE Instrumentation and Measurement Society (IEEE TIM). 2024.
-- **National First Price**, "Challenge Cup" National College Student Business Plan Competition. 2023. (Leader)
-- **2nd place** CVPR VAND Zero-shot Anomaly Detection Challenge. 2023. (Participator)
-- **National Third Prize**, China Postgraduate Robot Innovation and Design Competition. 2021. (Leader)
-- **Provincial First Price**, "Challenge Cup" National College Student Business Plan Competition. 2022. (Leader)
-- **Provincial Second Price**, China International College Students’ Innovation Competition. 2024. (Leader)
-- **Future STAR** (Highest honors in School of Mechanical Science and Engineering). 2024.
-- **National Scholarship** (Rank first in the major). 2022.
-- **Merit Student**, 2021, 2022.
-- **The First Prize Scholarship**, 2020,2021,2022,2023.
+- **The First Prize Scholarship**, 2024.
 
 # 🎓📚 Academic Service 
 - **Journal Reviewer**: IEEE TCYB, TSMC, TASE, TMM, TII, TMech, TIM, RAL, etc.
