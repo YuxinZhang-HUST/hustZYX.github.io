@@ -85,7 +85,6 @@ My research focuses on **industrial visual inspection**, involving **unsupervise
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Work</div><img src='images/ArmChair-v1.bip.6.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-Work
 Multi-illumination and Multi-view Anomaly Detection Platform
 
 [**Introduction**] <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
