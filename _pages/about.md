@@ -49,93 +49,6 @@ If you are interested in my academic researches or projects, please feel free to
 <h2 id="Peer-Reviewed Publications" style="color: #2c4a88; padding-top: 60px; margin-top: -60px;">Peer-Reviewed Publications</h2>
 <ol reversed>
 
-  <li id="FA-Manuscript1"> 
-    Boosting Global-Local Feature Matching via Anomaly Synthesis for Multi-Class Point Cloud Anomaly Detection <a href="https://ieeexplore.ieee.org/document/10898004">[Paper]</a> <a href="https://github.com/hustCYQ/GLFM-Multi-class-3DAD">[Code]</a> <br>  
-    <span style="color:#b02418; font-weight:bold;">Yuqi Cheng</span>, Yunkang Cao, Dongfang Wang, Weiming Shen*, Wenlong Li<br>
-    <i>IEEE Transactions on Automation Science and Engineering <strong>(IEEE TASE)</strong></i> 2025. (JCR Q1, Top)
-  </li>
-
-
-  <li id="FA-Pub1"> 
-    MVGR: Mean-Variance Minimization Global Registration Method for Multiview Point Cloud in Robot Inspection <a href="https://ieeexplore.ieee.org/abstract/document/10565771">[Paper]</a> <a href="NULL">[Code]</a> <br> 
-    <span style="color:#b02418; font-weight:bold;">Yuqi Cheng</span>, Wenlong Li*, Cheng Jiang, Dongfang Wang, Hongwen Xing, Wei Xu <br>
-    <i>IEEE Transactions on Instrumentation and Measurement <strong>(IEEE TIM).</strong></i> 2024. (JCR Q1, Top)
-  </li>
-
-  <li id="FA-Pub2"> 
-    A novel cooling hole inspection method for turbine blade using 3D reconstruction of stereo vision <a href="https://iopscience.iop.org/article/10.1088/1361-6501/ac39d0/meta">[Paper]</a> <br> 
-    <span style="color:#b02418; font-weight:bold;">Yuqi Cheng</span>, Wenlong Li*, Cheng Jiang, Gang Wang, Wei Xu, Qingyu Peng<br>
-    <i>Measurement Science and Technology <strong>(MST).</strong></i> 2021. (JCR Q1)
-  </li>
-
-  <li id="FA-Pub3"> 
-    A novel point cloud simplification method using local conditional information <a href="https://iopscience.iop.org/article/10.1088/1361-6501/ac8ac1/meta">[Paper]</a> <br> 
-    <span style="color:#b02418; font-weight:bold;">Yuqi Cheng</span>, Wenlong Li, Cheng Jiang, Dongfang Wang, Jincheng Mao*, Wei Xu <br>
-    <i>Measurement Science and Technology <strong>(MST).</strong></i> 2022. (JCR Q1)
-  </li>
-
-  <li id="FA-Pub4"> 
-    A point cloud semantic segmentation method for nuclear power reactors based on RandLA-Net Model <a href="http://www.jamstjournal.com/cn/article/doi/10.51393/j.jamst.2023010">[Paper]</a> <br> 
-    <span style="color:#b02418; font-weight:bold;">Yuqi Cheng</span>,  Dongfang Wang, Qingyu Peng, Wenlong Li* <br>
-    <i>Journal of Advanced Manufacturing Science and Technology<strong>(JAMST).</strong></i> 2023. (CiteScore 6.4, Q1)
-  </li>
-
-  <li id="FA-Pub5"> 
-    RAD: A Comprehensive Dataset for Benchmarking the Robustness of Image Anomaly Detection <a href="https://arxiv.org/abs/2406.07176">[Paper]</a> <a href="https://github.com/hustCYQ/RAD-dataset">[Code]</a> <br> 
-    <span style="color:#b02418; font-weight:bold;">Yuqi Cheng</span>, Yunkang Cao, Rui Chen, Weiming Shen <br>
-    <i>IEEE 20th International Conference on Automation Science and Engineering <strong>(CASE).</strong></i> 2024.
-  </li>
-
-
-  <li id="FA-Pub8"> 
-    Exploring intrinsic normal prototypes within a single image for universal anomaly detection <a href="https://openaccess.thecvf.com/content/CVPR2025/html/Luo_Exploring_Intrinsic_Normal_Prototypes_within_a_Single_Image_for_Universal_CVPR_2025_paper.html">[Paper]</a> <a href="https://github.com/luow23/INP-Former">[Code]</a> <br> 
-    Wei Luo, Yunkang Cao, Haiming Yao, Xiaotian Zhang, Jianan Lou, <span style="color:#b02418; font-weight:bold;">Yuqi Cheng</span>, Weiming Shen, Wenyong Yu* <br>
-    <i> Computer Vision and Pattern Recognition <strong>(CVPR).</strong></i> 2025.
-  </li>
-
-
-  <li id="FA-Pub8"> 
-    AdaCLIP: Adapting CLIP with Hybrid Learnable Prompts for Zero-Shot Anomaly Detection <a href="https://arxiv.org/abs/2407.15795">[Paper]</a> <a href="https://github.com/caoyunkang/AdaCLIP">[Code]</a> <br> 
-    Yunkang Cao, Jiangning Zhang, Luca Frittoli, <span style="color:#b02418; font-weight:bold;">Yuqi Cheng</span>, Weiming Shen*, Giacomo Boracchi <br>
-    <i>European Conference on Computer Vision <strong>(ECCV).</strong></i> 2024.
-  </li>
-
-  <li id="FA-Manuscript5"> 
-    Personalizing Vision-Language Models with Hybrid Prompts for Zero-Shot Anomaly Detection <a href="https://arxiv.org/abs/2305.10724">[Paper]</a> <a href="https://github.com/caoyunkang/Segment-Any-Anomaly">[Code]</a> <br> 
-    Yunkang Cao, Xiaohao Xu, <span style="color:#b02418; font-weight:bold;">Yuqi Cheng</span>, Chen Sun, Zongwei Du, Liang Gao, Weiming Shen* <br>
-    <i>IEEE Transactions on Cybernetics <strong>(IEEE TCYB)</strong></i>. 2025. (JCR Q1, Top)
-  </li>
-
-
-  <li id="OT-Manuscript3"> 
-    A Novel Path Error Compensation Method for Robotic Milling by Using Hybrid Temporal Network <br> 
-    Qingyu Peng, Wenlong Li*, Cheng Jiang, <span style="color:#b02418; font-weight:bold;">Yuqi Cheng</span>, Dongfang Wang, Wei Xu
-    <i>IEEE/ASME Transactions on Mechatronics <strong>(IEEE/ASME TMECH)</strong></i>. 2024. (JCR Q1, Top)
-  </li>
-
-  <li id="FA-Pub7"> 
-    A panoramic image stitching method for nuclear fuel assemblies <a href="https://iopscience.iop.org/article/10.1088/1361-6501/acfd4d/meta">[Paper]</a> <br> 
-    Bin Yang, <span style="color:#b02418; font-weight:bold;">Yuqi Cheng</span>, Rui Chen, Li Li, Ran Guo, Hehui Geng, Tao Liu, and Wenlong Li <br>
-    <i>Measurement Science and Technology <strong>(MST).</strong></i> 2023. (JCR Q1)
-  </li>  
-
-
-
-
-  <li id="FA-Pub7"> 
-    An adaptive anisotropic bilateral filtering method for mesh data in scale space <a href="https://iopscience.iop.org/article/10.1088/1361-6501/ad317e/meta">[Paper]</a> <br> 
-    Lingjie Su, Wenlong Li*, <span style="color:#b02418; font-weight:bold;">Yuqi Cheng</span>, Dongfang Wang, Cheng Jiang, Wentao Yang, Haiwen Zhang, Wei Xu <br>
-    <i>Measurement Science and Technology <strong>(MST).</strong></i> 2024. (JCR Q1)
-  </li>  
-
-   <li id="FA-Pub6"> 
-    An illumination-robust edge detection method for nuclear fuel assembly deformation measurement <a href="https://iopscience.iop.org/article/10.1088/1742-6596/2761/1/012001/meta">[Paper]</a> <br> 
-    Rui Chen, <span style="color:#b02418; font-weight:bold;">Yuqi Cheng</span>, Wentao Yang, Bin Yang and Wenlong Li* <br>
-    <i>2023 3rd International Conference on Mechanical Automation and Electronic Information Engineering <strong>(MAEIE).</strong></i> 2023.
-  </li>
-
-
-
   <li id="FA-Pub6"> 
     Multi-View Reconstruction with Global Context for 3D Anomaly Detection <br> 
     Yihan Sun, <span style="color:#b02418; font-weight:bold;">Yuqi Cheng</span>, Yunkang Cao, Yuxin Zhang, Weiming Shen* <br>
@@ -157,62 +70,13 @@ If you are interested in my academic researches or projects, please feel free to
 <h2 id="Manuscripts under Review" style="color: #2c4a88; padding-top: 60px; margin-top: -60px;">Manuscripts under Review</h2>
 <ol reversed>
 
-
-  <li id="FA-Manuscript1"> 
-    Towards Zero-shot Point Cloud Anomaly Detection: A Multi-View Projection Framework <a href="https://arxiv.org/abs/2409.13162">[Paper]</a> <a href="https://github.com/hustCYQ/MVP-PCLIP">[Code]</a> <br> 
-     <span style="color:#b02418; font-weight:bold;">Yuqi Cheng#</span>, Yunkang Cao#, Guoyang Xie, Zhichao Lu, Weiming Shen* <br>
-    <i>Submitted to IEEE Transactions on Systems, Man, and Cybernetics: Systems <strong>(IEEE TSMC)</strong></i> . (Under Review)
-  </li>
-
-  <li id="FA-Manuscript1"> 
-    Irregularity-Aware 3D Anomaly Detection for Product Quality Control <br> 
-     <span style="color:#b02418; font-weight:bold;">Yuqi Cheng</span>, Yunkang Cao*, Haiming Yao, Wei Luo, Jiangning Zhang, Weiming Shen* <br>
-    <i>Submitted to IEEE Transactions on Automation Science and Engineering <strong>(IEEE TASE)</strong></i> . (Under Review)
-  </li>
-
   <li id="FA-Manuscript1"> 
     Visual Anomaly Detection under Complex View-Illumination Interplay: A Large-Scale Benchmark <a href="https://arxiv.org/abs/2505.10996">[Paper]</a> <a href="https://github.com/hustCYQ/M2AD">[Code]</a> <br> 
      Yunkang Cao#, <span style="color:#b02418; font-weight:bold;">Yuqi Cheng#</span>, Xiaohao Xu, Yiheng Zhang, Yihan Sun, Yuxiang Tan, Yuxin Zhang, Xiaonan Huang, Weiming Shen* <br>
     <i>Submitted to Neural Information Processing Systems <strong>(NeurIPS 2025)</strong></i>. (Under Review)
   </li>
 
-  <li id="FA-Manuscript1"> 
-    Towards High-Resolution 3D Anomaly Detection: A Scalable Dataset and Real-Time Framework for Subtle Industrial Defects <a href="https://arxiv.org/abs/2507.07435">[Paper]</a> <a href="https://github.com/hustCYQ/MiniShift-Simple3D">[Code]</a> <br> 
-     <span style="color:#b02418; font-weight:bold;">Yuqi Cheng#</span>, Yihan Sun#, Hui Zhang, Weiming Shen*, Yunkang Cao* <br>
-    <i>Submitted to AAAI Conference on Artificial Intelligence <strong>(AAAI 2026)</strong></i>.
-  </li>
-
-  <li id="FA-Manuscript1"> 
-    A Comprehensive Survey for Real-World Industrial Defect Detection: Challenges, Approaches, and Prospects  <a href="https://arxiv.org/abs/2507.13378">[Paper]</a> <br> 
-     <span style="color:#b02418; font-weight:bold;">Yuqi Cheng#</span>, Yunkang Cao#, Haiming Yao, Wei Luo, Cheng Jiang, Hui Zhang, Weiming Shen* <br>
-    <i>Submitted to Journal of Manufacturing Systems <strong>(JMS)</strong></i>.
-  </li>
-
-
-
-
-  <li id="OT-Manuscript3"> 
-    VTFusion: A Vision-Text Multimodal Fusion Network for Few-Shot Anomaly Detection <br> 
-    Yuxin Jiang, Yunkang Cao, <span style="color:#b02418; font-weight:bold;">Yuqi Cheng</span>, Yiheng Zhang, Weiming Shen* <br>
-    <i>IEEE Transactions on Cybernetics <strong>(IEEE TCYB)</strong></i>. (Under Review)
-  </li>
-
-
-
-
-
-
-  <li id="FA-Manuscript3"> 
-    A Survey on Visual Anomaly Detection: Challenge, Approach, and Prospect <a href="https://arxiv.org/abs/2401.16402">[Paper]</a> <br> 
-    Yunkang Cao, Xiaohao Xu, Jiangning Zhang, <span style="color:#b02418; font-weight:bold;">Yuqi Cheng</span>, Xiaonan Huang, Guansong Pang, Weiming Shen*<br>
-  </li>
-
-
-  <li id="FA-Manuscript3"> 
-    A robust probability-based joint registration method of multiple point clouds considering local consistency <a href="https://arxiv.org/abs/2409.09682">[Paper]</a> <br> 
-    Lingjie Su, Wei Xu*, Shuyang Zhao, <span style="color:#b02418; font-weight:bold;">Yuqi Cheng</span>, Wenlong Li <br>
-  </li>
-
+ 
 
 </ol>
 
@@ -223,18 +87,6 @@ If you are interested in my academic researches or projects, please feel free to
 
 # 💻 Projects 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIM 2024</div><img src='images/PC0.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-Multi-view registration of car body
-
-[**Introduction**] <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- An industrial robot is equipped with 3D sensors to collect point clouds from multiple perspectives, and the proposed method MVGR is utilized for multi-view point cloud registration to obtain high-quality car body data.
-
-[**Challenge**] <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Due to the positioning deviation of the robot, the point clouds collected by various poses inevitably have uneven density and stratification, leading to a significant compromise in the overall quality of multiview point clouds.
-</div>
-</div>
 
 
 
@@ -312,28 +164,18 @@ Mobile E-Ink Screen Surface Defect Detection
 - **The First Prize Scholarship**, 2024.
 
 # 🎓📚 Academic Service 
-- **Journal Reviewer**: IEEE TCYB, TSMC, TASE, TMM, TII, TMech, TIM, RAL, etc.
-- **Conference Reviewer**: ICCV, ICRA, IROS, etc.
+- **Conference Reviewer**: SMC.
 
 # 📖 Educations
                           
-- ### *2023.09 - present, Huazhong University of Science and Technology*
+- ### *2020.09 - present, Huazhong University of Science and Technology*
   State Key Laboratory of Digital Manufacturing Equipment and Technology                               
-  ***Ph.D. Candidate*** in Mechanical Engineering &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Advisor**: [Weiming Shen](https://scholar.google.com/citations?hl=zh-CN&user=FuSHsx4AAAAJ&view_op=list_works&sortby=pubdate)
+  ***M.S.*** in Mechanical Engineering &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Advisor**: [Weiming Shen](https://scholar.google.com/citations?hl=zh-CN&user=FuSHsx4AAAAJ&view_op=list_works&sortby=pubdate)
  
-- ### *2020.09 - 2023.06, Huazhong University of Science and Technology*
-  State Key Laboratory of Digital Manufacturing Equipment and Technology                               
-  ***M.S.*** in Mechanical Engineering &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Advisor**: [Wenlong Li](http://mse.hust.edu.cn/info/1142/1340.htm)
- 
-- ### *2016.09 - 2020.06, Huazhong University of Science and Technology*
-  ***B.S.*** in Mechanical Design, Manufacture & Automation &nbsp;&nbsp;&nbsp; 
+- ### *2020.09 - 2024.06, Huazhong University of Science and Technology*
+  ***B.S.*** in Industrial Engineering &nbsp;&nbsp;&nbsp; 
 
 # 💬 Invited Talks
 - *2024.08*, "RAD: A Comprehensive Dataset for Benchmarking the Robustness of Image Anomaly Detection", CASE2024, Italy.
-
-# 💻 Internships
-- *2019.07 - 2019.08*, Huawei(华为), China. Design of Huawei cloud fault diagnosis algorithm.
-- *2022.05 - 2022.08*, Meituan(美团), China. Research on 3D object detection in UAV delivery.
-- *2024.10 - Now*, CATL(宁德时代), China. Research on 3D measurement and anomaly detection of battery pack.
 
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=tt&d=GEx5UNgsTQZO0HXocUoir2X2jb3xYvYzLS-DAh9BvTY&co=2793de&ct=ffffff'></script>
