@@ -23,22 +23,15 @@ redirect_from:
 
 🌐Welcome to my homepage! I am Zhang Yuxin (张雨昕). I got my bachelor's degree (2024) from Huazhong University of Science and Technology. I am currently a master's student in Huazhong University of Science and Technology under the supervision of Prof. [Shen Weiming](https://scholar.google.com/citations?hl=zh-CN&user=FuSHsx4AAAAJ&view_op=list_works&sortby=pubdate).
 
-我的研究方向围绕**工业视觉检测**展开，涉及多视图点云的**机器人采集、精简、配准、异常检测**等. 后续研究重点为构建**可实际使用的点云异常检测方法**与更加**通用的3D特征提取器**。除了学术研究，**我有很大的热情和兴趣参与实际项目的落地，目前我的研究成果已经在航空叶片、核电堆芯、汽车自动化产线等场景实现了应用**。🚀🚀🚀
+我的研究方向围绕**工业视觉检测**展开，关注**带噪的无监督异常检测；多光照、多视角异常检测**等。如果对我的学术研究感兴趣，欢迎与我联系！😊😊😊
 
-My research focuses on **industrial vision inspection**, involving multi-view point cloud **robot acquisition, simplification, registration, anomaly detection**, etc. Subsequent research focuses on **building a practical point cloud anomaly detection method** and a more **general 3D feature extractor**. In addition, **I have great enthusiasm and interest to participate in practical applications, and my researches have been applied in aviation, nuclear power, automobiles and other scenarios**.🚀🚀🚀
-
-如果对我的学术研究或落地项目感兴趣，任何时候都可以联系我，我非常乐意与您进行交流！😊😊😊我未来十分希望能将学术研究的方法推向实际使用，如果有企业愿意给我提供这个机会，请联系我！🍻
-
-If you are interested in my academic researches or projects, please feel free to contact me at any time, and I will be happy to communicate with you! 😊😊😊I really hope to push academic researches into practical application in the future, so if any enterprise is willing to provide me with this opportunity, please let me know!🍻
-
-
+My research focuses on **industrial visual inspection**, involving **unsupervised anomaly detection under noisy conditions, as well as anomaly detection under multi-illumination and multi-view scenarios**. If you are interested in my academic research, please feel free to contact me!😊😊😊
 
 # 🔥 News
 - *2025.07*: &nbsp;🎉🎉 Our paper addressed [3D Anomaly Detection]() and [Anomaly Detection with Noise]() has been accepted by IEEE SMC 2025.
 - *2025.05*: &nbsp;🎉🎉 We released  [Visual Anomaly Detection under Complex View-Illumination Interplay: A Large-Scale Benchmark](https://arxiv.org/abs/2505.10996) for Multi-view and Multi-illumination Anomaly Detection.
 
 # 📝 Publications 
-
 
 <h2>
   <a href="#Peer-Reviewed Publications"><u>Peer-Reviewed Publications</u></a>&nbsp; <br> 
@@ -51,13 +44,13 @@ If you are interested in my academic researches or projects, please feel free to
 
   <li id="FA-Pub6"> 
     Multi-View Reconstruction with Global Context for 3D Anomaly Detection <br> 
-    Yihan Sun, <span style="color:#b02418; font-weight:bold;">Yuqi Cheng</span>, Yunkang Cao, Yuxin Zhang, Weiming Shen* <br>
+    Yihan Sun, Yuqi Cheng, Yunkang Cao, <span style="color:#b02418; font-weight:bold;">Yuxin Zhang</span>, Weiming Shen* <br>
     <i>IEEE International Conference on Systems, Man, and Cybernetics <strong>(IEEE SMC).</strong></i> 2025.
   </li>
 
   <li id="FA-Pub6"> 
     Levarging Learning Bias for Noisy Anomaly Detection <br> 
-    Yuxin Zhang, Yunkang Cao, <span style="color:#b02418; font-weight:bold;">Yuqi Cheng</span>, Yihan Sun, Weiming Shen* <br>
+    <span style="color:#b02418; font-weight:bold;">Yuxin Zhang</span>, Yunkang Cao, Yuqi Cheng, Yihan Sun, Weiming Shen* <br>
     <i>IEEE International Conference on Systems, Man, and Cybernetics <strong>(IEEE SMC).</strong></i> 2025.
   </li>
 
@@ -72,7 +65,7 @@ If you are interested in my academic researches or projects, please feel free to
 
   <li id="FA-Manuscript1"> 
     Visual Anomaly Detection under Complex View-Illumination Interplay: A Large-Scale Benchmark <a href="https://arxiv.org/abs/2505.10996">[Paper]</a> <a href="https://github.com/hustCYQ/M2AD">[Code]</a> <br> 
-     Yunkang Cao#, <span style="color:#b02418; font-weight:bold;">Yuqi Cheng#</span>, Xiaohao Xu, Yiheng Zhang, Yihan Sun, Yuxiang Tan, Yuxin Zhang, Xiaonan Huang, Weiming Shen* <br>
+     Yunkang Cao#, Yuqi Cheng, Xiaohao Xu, Yiheng Zhang, Yihan Sun, Yuxiang Tan, <span style="color:#b02418; font-weight:bold;">Yuxin Zhang</span>, Xiaonan Huang, Weiming Shen* <br>
     <i>Submitted to Neural Information Processing Systems <strong>(NeurIPS 2025)</strong></i>. (Under Review)
   </li>
 
@@ -158,8 +151,6 @@ Mobile E-Ink Screen Surface Defect Detection
 
 
 
-
-
 # 🥇 Honors and Awards
 - **The First Prize Scholarship**, 2024.
 
@@ -174,8 +165,5 @@ Mobile E-Ink Screen Surface Defect Detection
  
 - ### *2020.09 - 2024.06, Huazhong University of Science and Technology*
   ***B.S.*** in Industrial Engineering &nbsp;&nbsp;&nbsp; 
-
-# 💬 Invited Talks
-- *2024.08*, "RAD: A Comprehensive Dataset for Benchmarking the Robustness of Image Anomaly Detection", CASE2024, Italy.
 
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=tt&d=GEx5UNgsTQZO0HXocUoir2X2jb3xYvYzLS-DAh9BvTY&co=2793de&ct=ffffff'></script>
