@@ -1,11 +1,11 @@
 
 <h1 align="center">
-Yuqi Cheng
+Yuxin Zhang
 </h1>
 
 <div align="center">
 
-Welcome to my [homepage](https://hustcyq.github.io/): [hustcyq.github.io](https://hustcyq.github.io/)
+Welcome to my [homepage](https://hustzyx.github.io/): [hustzyx.github.io](https://hustzyx.github.io/)
 
 
 </div>
