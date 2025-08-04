@@ -88,9 +88,6 @@ Multi-illumination and Multi-view Anomaly Detection Platform
 </div>
 
 
-
-
-
 # 🥇 Honors and Awards
 - **The First Prize Scholarship**, 2024.
 
