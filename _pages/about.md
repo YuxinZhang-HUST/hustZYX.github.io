@@ -106,4 +106,3 @@ Multi-illumination and Multi-view Anomaly Detection Platform
 - ### *2020.09 - 2024.06, Huazhong University of Science and Technology*
   ***B.S.*** in Industrial Engineering &nbsp;&nbsp;&nbsp; 
 
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=tt&d=GEx5UNgsTQZO0HXocUoir2X2jb3xYvYzLS-DAh9BvTY&co=2793de&ct=ffffff'></script>
