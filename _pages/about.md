@@ -36,18 +36,16 @@ My research focuses on **industrial visual inspection**, involving **unsupervise
 <ol reversed>
 
   <li id="FA-Pub6"> 
-    Multi-View Reconstruction with Global Context for 3D Anomaly Detection <br> 
-    Yihan Sun, Yuqi Cheng, Yunkang Cao, <span style="color:#b02418; font-weight:bold;">Yuxin Zhang</span>, Weiming Shen* <br>
-    <i>IEEE International Conference on Systems, Man, and Cybernetics <strong>(IEEE SMC).</strong></i> 2025.
-  </li>
-
-  <li id="FA-Pub6"> 
     Levarging Learning Bias for Noisy Anomaly Detection <br> 
     <span style="color:#b02418; font-weight:bold;">Yuxin Zhang</span>, Yunkang Cao, Yuqi Cheng, Yihan Sun, Weiming Shen* <a href="https://github.com/hustzhangyuxin/LLBNAD">[Code]</a> <br>
     <i>IEEE International Conference on Systems, Man, and Cybernetics <strong>(IEEE SMC).</strong></i> 2025.
   </li>
 
-
+  <li id="FA-Pub6"> 
+    Multi-View Reconstruction with Global Context for 3D Anomaly Detection <br> 
+    Yihan Sun, Yuqi Cheng, Yunkang Cao, <span style="color:#b02418; font-weight:bold;">Yuxin Zhang</span>, Weiming Shen* <br>
+    <i>IEEE International Conference on Systems, Man, and Cybernetics <strong>(IEEE SMC).</strong></i> 2025.
+  </li>
 
   
 </ol>
