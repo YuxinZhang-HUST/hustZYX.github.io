@@ -43,7 +43,7 @@ My research focuses on **industrial visual inspection**, involving **unsupervise
 
   <li id="FA-Pub6"> 
     Levarging Learning Bias for Noisy Anomaly Detection <br> 
-    <span style="color:#b02418; font-weight:bold;">Yuxin Zhang</span>, Yunkang Cao, Yuqi Cheng, Yihan Sun, Weiming Shen* <br>
+    <span style="color:#b02418; font-weight:bold;">Yuxin Zhang</span>, Yunkang Cao, Yuqi Cheng, Yihan Sun, Weiming Shen* <a href="https://github.com/hustzhangyuxin/LLBNAD">[Code]</a> <br>
     <i>IEEE International Conference on Systems, Man, and Cybernetics <strong>(IEEE SMC).</strong></i> 2025.
   </li>
 
