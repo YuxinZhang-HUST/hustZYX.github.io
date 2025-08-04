@@ -33,7 +33,6 @@ My research focuses on **industrial visual inspection**, involving **unsupervise
 
 # 📝 Publications 
 
-</h2>
 <span style="color:#b02418; font-weight:bold;">#</span> co-first author | <span style="color:#b02418; font-weight:bold;">*</span> corresponding author <br> 
 
 <h2 id="Peer-Reviewed Publications" style="color: #2c4a88; padding-top: 60px; margin-top: -60px;">Peer-Reviewed Publications</h2>
