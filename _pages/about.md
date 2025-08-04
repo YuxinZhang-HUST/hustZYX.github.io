@@ -33,9 +33,6 @@ My research focuses on **industrial visual inspection**, involving **unsupervise
 
 # 📝 Publications 
 
-<h2>
-  <a href="#Peer-Reviewed Publications"><u>Peer-Reviewed Publications</u></a>&nbsp; <br> 
-  <a href="#Manuscripts under Review"><u>Manuscripts under Review</u></a>&nbsp; <br>
 </h2>
 <span style="color:#b02418; font-weight:bold;">#</span> co-first author | <span style="color:#b02418; font-weight:bold;">*</span> corresponding author <br> 
 
@@ -75,13 +72,7 @@ My research focuses on **industrial visual inspection**, involving **unsupervise
 
 
 
-
-
-
 # 💻 Projects 
-
-
-
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Work</div><img src='images/ArmChair-v1.bip.6.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
